@@ -14,6 +14,7 @@ const Models = [
   // { title: 'jamoneroMacondo2', url: './gltf/jamoneroMacondo2.glb' },
   { title: 'antorcha2', url: './antorcha2.glb' },
   { title: 'antorcha1', url: './antorcha1.glb' },
+  { title: 'amazon', url: './AMAZON.glb' },
 ]
 
 function Model({ url, miEscala, miPosicion }) {
